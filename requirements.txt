@@ -1,0 +1,6 @@
+urllib3
+BeautifulSoup
+datetime
+time
+smtplib
+MIMEText
