@@ -4,6 +4,7 @@ from datetime import datetime
 import setup_mail
 import smtplib
 from email.mime.text import MIMEText
+import html5lib
 
 
 # アクセスするURL
