@@ -1,6 +1,5 @@
 urllib3
 BeautifulSoup4
 datetime
-time
 smtplib
 MIMEText

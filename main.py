@@ -1,7 +1,6 @@
 import urllib3
 from bs4 import BeautifulSoup
 from datetime import datetime
-import time
 import setup_mail
 import smtplib
 from email.mime.text import MIMEText
