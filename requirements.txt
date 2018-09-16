@@ -1,3 +1,6 @@
 urllib3
 BeautifulSoup4
 html5lib
+line-bot-sdk
+flask
+os
